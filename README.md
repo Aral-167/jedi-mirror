@@ -30,3 +30,5 @@ Jedi Mirror is a smart mirror with a screen behind it that is controlled with a 
 4. nano hand\_mouse\_picam2.py
 5. Paste the code from hand\_mouse\_picam2.py to here
 6. python3 hand\_mouse\_picam2.py
+
+And you are good to go 😀
